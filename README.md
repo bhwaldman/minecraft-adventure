@@ -27,7 +27,7 @@
 <body>
   <h1>Chapter 1: A New World</h1>
   <p>Sebastian woke up in a new world. The sun was bright. Everything looked like blocks. He was in Minecraft! With his pickaxe, he started to explore.</p>
-  <img src="sandbox:/mnt/data/A_Minecraft_world_with_a_character_resembling_an_8.png" alt="Sebastian in Minecraft">
+  <img src="DALL·E 2024-05-19 12.04.34 - A Minecraft world with a character resembling an 8-year-old boy exploring. The boy has short brown hair, wears a blue T-shirt and jeans, and carries a.webp">
   
   <h1>Chapter 2: Building a House</h1>
   <p>Sebastian found a nice place by the river. He decided to build a house. He got wood and made tools. Soon, his house was ready with a chimney.</p>
